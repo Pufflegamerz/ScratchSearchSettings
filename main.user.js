@@ -1,3 +1,7 @@
+/*
+You need tampermonkey to install Scratch Search Settings!
+tampermonkey.org
+*/
 // ==UserScript==
 // @name         Scratch Search Settings
 // @icon		 https://pufflegamerz.github.io/ScratchSearchSettings/icon.png
